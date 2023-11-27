@@ -1,0 +1,10 @@
+{
+  "name": "Copy-tool-for-job-apply",
+  "description": "When we are looking for jobs. There are alot of information we need to repeat input into different job website. Most are phone number, address, LinkedIn profile,,, etc. So we need to type manually in each job.",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "panel.html",
+    "default_icon": "copy-two-paper-sheets-interface-symbol.png"
+  }
+}
